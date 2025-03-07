@@ -7,21 +7,6 @@
 
 ---
 
-### 📊 Harshal's GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshluffy1996&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshluffy1996&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 🎯 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshluffy1996&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
----
-
 ### 🛠 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge" />
@@ -74,9 +59,3 @@
   </a>
 </p>
 
----
-
-### 🔥 Contributions & Activity:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshluffy1996&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
